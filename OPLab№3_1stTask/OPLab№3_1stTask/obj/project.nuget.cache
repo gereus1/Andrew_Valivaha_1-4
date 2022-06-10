@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "V9tSZEnlIMap7knFMooRknBhaVCeNV1MPFeNP0Q3BwztM70kIDBhnm428KwEcuwstbo9qsjuSQ3LFsIFStTxpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dixum\\source\\repos\\OPLab№3_1stTask\\OPLab№3_1stTask\\OPLab№3_1stTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dixum\\.nuget\\packages\\awssdk.core\\3.7.11.11\\awssdk.core.3.7.11.11.nupkg.sha512",
+    "C:\\Users\\dixum\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.3.43\\awssdk.dynamodbv2.3.7.3.43.nupkg.sha512"
+  ],
+  "logs": []
+}

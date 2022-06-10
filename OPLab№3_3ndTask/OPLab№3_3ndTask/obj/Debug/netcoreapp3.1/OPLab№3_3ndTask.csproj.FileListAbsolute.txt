@@ -1,0 +1,14 @@
+C:\Users\dixum\source\repos\OPLab№3_3ndTask\OPLab№3_3ndTask\bin\Debug\netcoreapp3.1\OPLab№3_3ndTask.exe
+C:\Users\dixum\source\repos\OPLab№3_3ndTask\OPLab№3_3ndTask\bin\Debug\netcoreapp3.1\OPLab№3_3ndTask.deps.json
+C:\Users\dixum\source\repos\OPLab№3_3ndTask\OPLab№3_3ndTask\bin\Debug\netcoreapp3.1\OPLab№3_3ndTask.runtimeconfig.json
+C:\Users\dixum\source\repos\OPLab№3_3ndTask\OPLab№3_3ndTask\bin\Debug\netcoreapp3.1\OPLab№3_3ndTask.runtimeconfig.dev.json
+C:\Users\dixum\source\repos\OPLab№3_3ndTask\OPLab№3_3ndTask\bin\Debug\netcoreapp3.1\OPLab№3_3ndTask.dll
+C:\Users\dixum\source\repos\OPLab№3_3ndTask\OPLab№3_3ndTask\bin\Debug\netcoreapp3.1\OPLab№3_3ndTask.pdb
+C:\Users\dixum\source\repos\OPLab№3_3ndTask\OPLab№3_3ndTask\obj\Debug\netcoreapp3.1\OPLab№3_3ndTask.csproj.AssemblyReference.cache
+C:\Users\dixum\source\repos\OPLab№3_3ndTask\OPLab№3_3ndTask\obj\Debug\netcoreapp3.1\OPLab№3_3ndTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dixum\source\repos\OPLab№3_3ndTask\OPLab№3_3ndTask\obj\Debug\netcoreapp3.1\OPLab№3_3ndTask.AssemblyInfoInputs.cache
+C:\Users\dixum\source\repos\OPLab№3_3ndTask\OPLab№3_3ndTask\obj\Debug\netcoreapp3.1\OPLab№3_3ndTask.AssemblyInfo.cs
+C:\Users\dixum\source\repos\OPLab№3_3ndTask\OPLab№3_3ndTask\obj\Debug\netcoreapp3.1\OPLab№3_3ndTask.csproj.CoreCompileInputs.cache
+C:\Users\dixum\source\repos\OPLab№3_3ndTask\OPLab№3_3ndTask\obj\Debug\netcoreapp3.1\OPLab№3_3ndTask.dll
+C:\Users\dixum\source\repos\OPLab№3_3ndTask\OPLab№3_3ndTask\obj\Debug\netcoreapp3.1\OPLab№3_3ndTask.pdb
+C:\Users\dixum\source\repos\OPLab№3_3ndTask\OPLab№3_3ndTask\obj\Debug\netcoreapp3.1\OPLab№3_3ndTask.genruntimeconfig.cache
