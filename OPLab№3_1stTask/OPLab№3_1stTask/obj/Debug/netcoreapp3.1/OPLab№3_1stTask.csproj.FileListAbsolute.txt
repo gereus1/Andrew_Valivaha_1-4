@@ -1,0 +1,16 @@
+C:\Users\dixum\source\repos\OPLab№3_1stTask\OPLab№3_1stTask\bin\Debug\netcoreapp3.1\OPLab№3_1stTask.exe
+C:\Users\dixum\source\repos\OPLab№3_1stTask\OPLab№3_1stTask\bin\Debug\netcoreapp3.1\OPLab№3_1stTask.deps.json
+C:\Users\dixum\source\repos\OPLab№3_1stTask\OPLab№3_1stTask\bin\Debug\netcoreapp3.1\OPLab№3_1stTask.runtimeconfig.json
+C:\Users\dixum\source\repos\OPLab№3_1stTask\OPLab№3_1stTask\bin\Debug\netcoreapp3.1\OPLab№3_1stTask.runtimeconfig.dev.json
+C:\Users\dixum\source\repos\OPLab№3_1stTask\OPLab№3_1stTask\bin\Debug\netcoreapp3.1\OPLab№3_1stTask.dll
+C:\Users\dixum\source\repos\OPLab№3_1stTask\OPLab№3_1stTask\bin\Debug\netcoreapp3.1\OPLab№3_1stTask.pdb
+C:\Users\dixum\source\repos\OPLab№3_1stTask\OPLab№3_1stTask\obj\Debug\netcoreapp3.1\OPLab№3_1stTask.csproj.AssemblyReference.cache
+C:\Users\dixum\source\repos\OPLab№3_1stTask\OPLab№3_1stTask\obj\Debug\netcoreapp3.1\OPLab№3_1stTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dixum\source\repos\OPLab№3_1stTask\OPLab№3_1stTask\obj\Debug\netcoreapp3.1\OPLab№3_1stTask.AssemblyInfoInputs.cache
+C:\Users\dixum\source\repos\OPLab№3_1stTask\OPLab№3_1stTask\obj\Debug\netcoreapp3.1\OPLab№3_1stTask.AssemblyInfo.cs
+C:\Users\dixum\source\repos\OPLab№3_1stTask\OPLab№3_1stTask\obj\Debug\netcoreapp3.1\OPLab№3_1stTask.csproj.CoreCompileInputs.cache
+C:\Users\dixum\source\repos\OPLab№3_1stTask\OPLab№3_1stTask\obj\Debug\netcoreapp3.1\OPLab№3_1stTask.dll
+C:\Users\dixum\source\repos\OPLab№3_1stTask\OPLab№3_1stTask\obj\Debug\netcoreapp3.1\OPLab№3_1stTask.pdb
+C:\Users\dixum\source\repos\OPLab№3_1stTask\OPLab№3_1stTask\obj\Debug\netcoreapp3.1\OPLab№3_1stTask.genruntimeconfig.cache
+C:\Users\dixum\source\repos\OPLab№3_1stTask\OPLab№3_1stTask\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\dixum\source\repos\OPLab№3_1stTask\OPLab№3_1stTask\bin\Debug\netcoreapp3.1\AWSSDK.DynamoDBv2.dll
