@@ -1,0 +1,20 @@
+{
+  "Singles": [
+    {
+      "Koef": 3,
+      "Power": 3
+    },
+    {
+      "Koef": -4,
+      "Power": 2
+    },
+    {
+      "Koef": 2,
+      "Power": 1
+    },
+    {
+      "Koef": -7,
+      "Power": 0
+    }
+  ]
+}
